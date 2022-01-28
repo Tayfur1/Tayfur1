@@ -1,0 +1,7 @@
+echo "# Tayfur1" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk taahhüt" 
+git branch -M main 
+git remote add Origin https://github.com/Tayfur1/Tayfur1.git
+ git push - asıl sen
